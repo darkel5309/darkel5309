@@ -1,10 +1,6 @@
 # ¡Hola! Soy Ángel Domínguez Rodríguez y este es mi GitHub👋
 
-## Desarrollador de Aplicaciones Web
-
-# 💫 About Me:
-Actualmente...<br>🔭 Trabajando en proyecto-insene<br>🌱 Aprendiendo React y NodeJS
-
+## Técnico Superior de Desarrollo de Aplicaciones Web
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angeel_04_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-dominguez-rodriguez-a7789832b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angeldzrz3103@gmail.com) 
